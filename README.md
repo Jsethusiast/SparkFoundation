@@ -1,2 +1,1 @@
-# SparkFoundation
-SparksFoundatoon
+# BasicBankingApp
